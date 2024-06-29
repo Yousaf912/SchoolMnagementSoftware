@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hediv{
+    background-color:#f7a73e ;
+}
+
+span{
+    color: red;
+}
+.inpt{
+    width: 100%;
+}
+.inpt input{
+    width: 65%;
+}
+.adresdiv textarea{
+    width: 80%;
+    outline: none;
+}
+.adresdiv input{
+    width: 80%;
+}
+input{
+    outline: none;
+}
+select{
+    outline: none;
+}
